@@ -4,7 +4,7 @@
 int
 main(int argc, char **argv, char **envp)
 {
-	printf("Hello, world. 8\n");
+	printf("Hello, world. 9\n");
 
 	return (EXIT_SUCCESS);
 }
