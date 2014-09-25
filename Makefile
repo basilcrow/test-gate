@@ -1,4 +1,4 @@
-CC=gcc -m64
+CC=/opt/gcc-4.8.1/bin/gcc -m64
 CFLAGS=-g3 \
 	-Wall \
 	-Wextra \
